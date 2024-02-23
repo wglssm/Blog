@@ -1,7 +1,7 @@
 ---
-home: true
-title: Home
-heroImage: https://vuejs.press/images/hero.png
+home: false
+title: Blogs
+heroImage: https://it-s.com/wp-content/webp-express/webp-images/uploads/2023/03/c-users-sps-desktop-d2192b7ef27e226ec745e8469a5ad.jpeg.webp
 actions:
   - text: Get Started
     link: /getting-started.html
