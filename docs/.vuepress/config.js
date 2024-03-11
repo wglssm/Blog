@@ -10,7 +10,7 @@ export default defineUserConfig({
   description: "My personal knowledge Site",
 
   theme: defaultTheme({
-    logo: "https://static.vecteezy.com/system/resources/previews/002/767/813/non_2x/lw-logo-letter-initial-logo-designs-template-free-vector.jpg",
+    logo: "/images/lesi_img.png",
 
     navbar: [
       "/",
